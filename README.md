@@ -7,3 +7,4 @@
 
 my class OSSPrac
 my name Lee boseong
+일자 2002.24.22
