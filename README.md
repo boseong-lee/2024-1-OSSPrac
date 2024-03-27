@@ -7,4 +7,8 @@
 
 my class OSSPrac
 my name Lee boseong
+<<<<<<< HEAD
 일자 2002.24.22
+=======
+date 24.03.27
+>>>>>>> origin
