@@ -1,2 +1,1 @@
-print("Hi lee-boseong !!!!!!!!!!!!!!")
-print("hello worldddddd")
+print("Hi lee-boseong !!!!!!!!!!!!!! - prać2")
