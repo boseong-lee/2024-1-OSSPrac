@@ -1,1 +1,1 @@
-print("Hi lee boseong");
+print("Hi boseong");
